@@ -4,6 +4,12 @@ IoT-Based Fire Detection and Extinguishing System using ESP32 DevKit V1
 ## About
 This project implements a low-cost, IoT-enabled prototype for early fire detection and automatic extinguishing using the ESP32 DevKit V1 as the main controller. The system integrates a flame sensor, MQ2 smoke sensor, DHT11 (temperature & humidity), water level sensor, two servo motors, relaycontrolled water pump, LEDs, and an active buzzer. Sensor readings and control are available via the Blynk mobile app for real-time remote monitoring.
 
+## Schematic
+<img width="1420" height="833" alt="image" src="https://github.com/user-attachments/assets/9c121a88-c81e-4c4a-a274-48622910a47b" />
+
+## Photos 
+<img width="5029" height="2876" alt="IMG_7289 (1)" src="https://github.com/user-attachments/assets/d4daf036-1ce0-44f0-82e9-b9f640129e3e" />
+
  ## Components List
 ● ESP32 DevKit V1 — Main microcontroller with Wi-Fi for IoT connectivity,
 
